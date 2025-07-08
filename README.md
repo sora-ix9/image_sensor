@@ -1,1 +1,1 @@
-The slide contained in this repository is co-autor and indepedent-study work on the topic about sensor, which is a part of the class Microprocessor Interfacing System Designs.
+The slide contained in this repository is co-autor and indepedent-study work on Active Pixel Sensors (APS), a type of image sensor. The work is intentionally assigned to let students study their own interresting topic about sensors which is a part of the class Microprocessor Interfacing System Designs.
